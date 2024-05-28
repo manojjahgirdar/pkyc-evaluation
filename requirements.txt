@@ -1,0 +1,4 @@
+fastapi
+pydantic==2.7.1
+uvicorn[standard]
+ibm_watsonx_ai

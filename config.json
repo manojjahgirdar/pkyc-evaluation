@@ -1,0 +1,9 @@
+{
+    "title": "PKYC PEP & GEO Risk Evaluation with watsonx.ai",
+    "description": "Evaluate if the person is Politically Exposed Person (PEP) and Geographical Risk.",
+    "version": "0.0.1",
+    "license_info": {
+        "name": "MIT License",
+        "url": "https://opensource.org/licenses/MIT"
+    }
+}
